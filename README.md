@@ -1,3 +1,4 @@
+![logo](https://github.com/akash-kant/akash-kant/blob/main/Purple%20Colorful%20Tech'22%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Akash kant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
