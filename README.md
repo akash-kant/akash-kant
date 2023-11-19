@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python and machine learning**
 
-- 📫 How to reach me **akashkant81@gmail.com**
+- 📫 How to reach me **akashkantofficial@gmail.com**
 
 - ⚡ Fun fact **I think I am very enthusiastic and sporty.**
 
