@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/akashkant22" target="blank"><img src="https://img.shields.io/twitter/follow/akashkant22?logo=twitter&style=for-the-badge" alt="akashkant22" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning with python**
+- 🌱 I’m currently learning **Full Stack Web-Development**
 
-- 💬 Ask me about **python and machine learning**
+- 💬 Ask me about **Java and DSA**
 
 - 📫 How to reach me **akashkantofficial@gmail.com**
 
