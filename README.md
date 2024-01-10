@@ -30,4 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-kant&show_icons=true&locale=en&layout=compact" alt="akash-kant" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-kant&show_icons=true&locale=en" alt="akash-kant" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akash-kant)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akash-kant"/></a>
