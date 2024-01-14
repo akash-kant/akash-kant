@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-kant&show_icons=true&locale=en&layout=compact" alt="akash-kant" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-kant&show_icons=true&locale=en" alt="akash-kant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kant&" alt="akash-kant" /></p>
